@@ -1,16 +1,7 @@
-# myapp
+# A Wellness App UI "ZenSpace"
 
-A new Flutter project.
-
-## Getting Started
+## This Wellness App Will Ease Your Emotions
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Just unleash my imagination and let my creativity shine through in my app design! You can opportunity to explore different styles, layouts, and color schemes that reflect my unique vision, though yet to be completed. I experiment with various widget combinations and design elements to create a truly engaging user experience. Have fun checkout the coding and and wait for it! 🎈 🎈
